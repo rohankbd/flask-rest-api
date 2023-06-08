@@ -48,10 +48,6 @@ The following endpoints are available:
 - **Delete a task:** `DELETE /tasks/<task_id>`
 - **List all tasks:** `GET /tasks`
 
-## Configuration
-
-The Flask application uses the default configuration. If you need to modify any settings, you can update the `config.py` file.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
