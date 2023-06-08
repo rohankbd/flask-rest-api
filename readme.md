@@ -12,7 +12,7 @@ Follow the steps below to set up and run the Flask application locally.
 
 ### 1. Clone the repository
 
-git clone [https://github.com/your-username/flask-task-manager.git]
+git clone [https://github.com/rohankbd/flask-task-manager.git]
 
 ### 2. Set up a virtual environment (optional)
 
